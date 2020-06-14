@@ -1,0 +1,2 @@
+﻿D:\Program\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Experiment3.2Shadow.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Experiment3.2Shadow.vcxproj -> D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2Shadow\Debug\Experiment3.2Shadow-2017153009.exe
