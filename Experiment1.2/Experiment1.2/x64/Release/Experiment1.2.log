@@ -1,0 +1,30 @@
+﻿  InitShader.cpp
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\Angel.h(63,47): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(698,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(699,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(700,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(721,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(723,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(726,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(743,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\Angel.h(63,47): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(698,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(699,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(700,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(721,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(723,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(726,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(743,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(34,27): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(39,69): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(39,50): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(39,87): warning C4244:  'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(60,60): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(60,41): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(60,78): warning C4244:  'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 36 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Experiment1.2.vcxproj -> D:\文件\C++项目\Experiment1.2\x64\Release\Experiment1.2.exe
