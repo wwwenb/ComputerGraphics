@@ -1,0 +1,11 @@
+﻿  hierarchical_modeling_02.cpp
+c:\users\szu\documents\visual studio 2015\projects\project3\project3\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\szu\documents\visual studio 2015\projects\project3\project3\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\documents\visual studio 2015\projects\project3\project3\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\documents\visual studio 2015\projects\project3\project3\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\documents\visual studio 2015\projects\project3\project3\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\documents\visual studio 2015\projects\project3\project3\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\documents\visual studio 2015\projects\project3\project3\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\szu\documents\visual studio 2015\projects\project3\project3\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  Project3.vcxproj -> c:\users\szu\documents\visual studio 2015\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> c:\users\szu\documents\visual studio 2015\Projects\Project3\Debug\Project3.pdb (Partial PDB)

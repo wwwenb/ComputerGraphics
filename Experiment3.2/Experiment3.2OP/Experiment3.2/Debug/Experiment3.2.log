@@ -1,0 +1,36 @@
+﻿D:\Program\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Experiment3.2.vcxproj, Experiment3.2Op.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  InitShader.cpp
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\Angel.h(63,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(698,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(699,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(700,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(721,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(723,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(726,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  main.cpp
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(743,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\Angel.h(63,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(698,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(699,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(700,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(721,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(723,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(726,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\include\mat.h(743,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(227,17): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(240,23): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(240,38): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(242,23): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(242,38): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(244,25): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(244,37): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(246,24): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(246,36): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(248,24): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(248,37): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(250,23): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(250,36): warning C4305: “*=”: 从“double”到“GLfloat”截断
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(254,15): warning C4305: “=”: 从“double”到“GLfloat”截断
+  正在生成代码...
+D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Experiment3.2\main.cpp(259,15): warning C4305: “=”: 从“double”到“GLfloat”截断
+  Experiment3.2.vcxproj -> D:\文件\C++项目\ComputerGraphics\Experiment3.2\Experiment3.2OP\Debug\Experiment3.2Op-2017153009.exe

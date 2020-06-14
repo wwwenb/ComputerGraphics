@@ -1,0 +1,59 @@
+﻿  InitShader.cpp
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\Angel.h(63,47): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(698,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(699,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(700,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(721,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(723,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(726,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(743,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\Angel.h(63,47): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(698,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(699,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(700,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(721,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(723,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(726,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\include\mat.h(743,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(34,27): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(39,69): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(39,50): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(39,87): warning C4244:  'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(60,60): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(60,41): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+D:\文件\C++项目\Experiment1.2\Experiment1.2\main.cpp(60,78): warning C4244:  'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+InitShader.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+main.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+main.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+main.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+main.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+main.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+main.obj : error LNK2001: unresolved external symbol __imp___glewBufferSubData
+main.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+main.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+main.obj : error LNK2001: unresolved external symbol __imp___glewGetAttribLocation
+main.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+main.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+main.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+main.obj : error LNK2001: unresolved external symbol __imp_glewExperimental
+D:\Program\Visual Studio\VC\Tools\MSVC\14.22.27905\lib\x64\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Program\Visual Studio\VC\Tools\MSVC\14.22.27905\lib\x64\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\文件\C++项目\Experiment1.2\x64\Debug\Experiment1.2.exe : fatal error LNK1120: 29 unresolved externals

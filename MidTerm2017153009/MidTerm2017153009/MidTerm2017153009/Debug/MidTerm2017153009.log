@@ -1,0 +1,5 @@
+﻿  InitShader.cpp
+D:\Files\C++项目\ComputerGraphics\MidTerm2017153009\MidTerm2017153009\MidTerm2017153009\include\Angel.h(38,12): fatal error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+  tetris.cpp
+D:\Files\C++项目\ComputerGraphics\MidTerm2017153009\MidTerm2017153009\MidTerm2017153009\include\Angel.h(38,12): fatal error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+  正在生成代码...

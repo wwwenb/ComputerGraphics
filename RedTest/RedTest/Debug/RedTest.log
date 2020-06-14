@@ -1,0 +1,20 @@
+﻿  InitShader.cpp
+D:\文件\C++项目\RedTest\RedTest\include\Angel.h(63,47): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(698,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(699,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(700,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(721,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(723,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(726,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(743,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\Angel.h(63,47): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(698,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(699,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(700,18): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(721,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(723,24): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(726,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+D:\文件\C++项目\RedTest\RedTest\include\mat.h(743,30): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+  RedTest.vcxproj -> D:\文件\C++项目\RedTest\Debug\RedTest.exe
